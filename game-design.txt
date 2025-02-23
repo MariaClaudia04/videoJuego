@@ -1,4 +1,4 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA] 
+La Aventura De Los Numeros es un videojuego educativo diseñado para enseñar Matematicas
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
 
 La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y 
